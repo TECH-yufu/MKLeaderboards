@@ -1,3 +1,3 @@
 # MKLeaderboards
 
-hi
+Doing cool stuff with the MKLeaderboards API.
