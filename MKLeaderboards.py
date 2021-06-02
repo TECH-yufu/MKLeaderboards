@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  8 15:16:06 2021
-
-@author: Yucheng
 """
 import os
 path = os.path.dirname(os.path.realpath(__file__)).replace('\\','/')
