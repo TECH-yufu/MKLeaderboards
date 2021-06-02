@@ -13,7 +13,7 @@ import numpy as np
 from MKLeaderboards import MKLeaderboard
 import os
 
-token = "ODQ5Mjc1Mzg0Mjc2MTg5MjA0.YLYzVg.X6-nIudRM4ku8RJYNycoeY07wWM"
+token = "TOKEN HERE"
 
 client = commands.Bot(command_prefix = '!')
 
