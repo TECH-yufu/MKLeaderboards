@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun  1 14:51:06 2021
-
-@author: Yucheng
 """
 
 import discord
