@@ -1,3 +1,3 @@
-# MKLeaderboards
+# MKLeaderboards Discord bot
 
-Doing cool stuff with the MKLeaderboards API.
+Discord bot extension for MKLeaderboards.com
