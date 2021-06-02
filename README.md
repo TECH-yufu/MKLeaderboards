@@ -8,5 +8,5 @@ Currently supports the following commands:
 - !countrytop
 - !tracks
 - !categories
-- 
+
 See !help for more
