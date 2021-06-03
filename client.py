@@ -15,7 +15,7 @@ token = "YOUR_TOKEN_HERE"
 
 client = commands.Bot(command_prefix = '!')
 
-target_channel_id = 849278207966445628
+target_channel_id = "YOUR_CHANNEL_HERE"
 
 categories = ["NO-SC", "UNRESTRICTED"]
 track_names = np.load("track_names.npy")
