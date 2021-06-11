@@ -9,4 +9,4 @@ Currently supports the following commands:
 - !tracks
 - !categories
 
-See !help for more
+Use !help for more information.
