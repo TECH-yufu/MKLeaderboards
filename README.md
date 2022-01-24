@@ -1,6 +1,6 @@
 # MKLeaderboards Discord bot
 
-Discord bot extension for MKLeaderboards.com
+Discord bot for MKLeaderboards.com
 
 Currently supports the following commands:
 - !wr
